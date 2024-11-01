@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DGAudioSpline",
+	"Description": "Audio Spline",
+	"Category": "Other",
+	"CreatedBy": "Dale Grinsell",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"EnabledByDefault": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DGAudioSpline",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

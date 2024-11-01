@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DGAudioSpline.cpp.obj": [
+			"AudioSpline.gen.cpp.obj",
+			"DGAudioSpline.init.gen.cpp.obj",
+			"AudioSpline.cpp.obj",
+			"DGAudioSpline.cpp.obj"
+		]
+	}
+}
